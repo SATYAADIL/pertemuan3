@@ -17,3 +17,5 @@ let cube = function (num) {
     return num ** 3;
 };
 console.log(cube(1));
+let ml = "clint";
+console.log(ml);

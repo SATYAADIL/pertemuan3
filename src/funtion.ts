@@ -19,5 +19,9 @@ let cube = function(num:number){
 }   
 console.log(cube (1));
 
+let ml : string = "clint"
+console.log(ml);
+
+
 
 
