@@ -23,11 +23,6 @@ function gret(name) {
     console.log("halo aku " + name);
 }
 gret("Satya!");
-function calculate(a, b) {
-    return a * b;
-}
-let hasil = calculate(1, 2);
-console.log("hasil penjumlahan " + hasil);
 let multiply = (a, b) => {
     return a * b;
 };
